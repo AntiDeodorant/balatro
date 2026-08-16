@@ -1,2 +1,2 @@
-# Balatro On The Web
-Play a working version right here:
+# Balatro
+Play a working version right here: https://antideodorant.github.io/balatro/
